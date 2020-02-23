@@ -1,4 +1,6 @@
 # Workout Planner
+ <p>Application use to keep track of your workout. </p>
+ <p>Link https://warm-escarpment-12016.herokuapp.com/ </p>
  
  
 <h3>Client Side</h3>
