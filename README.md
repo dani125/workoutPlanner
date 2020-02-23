@@ -1,7 +1,7 @@
 ﻿# workoutPlanner
  
  
-Client Side
+<strong>Client Side<strong>
  React
  Redux
  Bootstap 4
