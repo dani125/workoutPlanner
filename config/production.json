@@ -1,5 +1,0 @@
-{
-    "mongoURI": "mongodb+srv://dani:dani@cluster0-syybt.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "secret"
-
-}
