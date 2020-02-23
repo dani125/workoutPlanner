@@ -1,0 +1,56 @@
+.navbarcolor {
+    background-color: #3b5998;
+    color: white; 
+}
+
+.navbar-nav .nav-item:not(:last-child) {
+    border-right: 1px solid #A9A9A9;
+ }
+ 
+ @media (max-width: 768px) {
+   .navbar-nav .nav-item:not(:last-child) {
+     border-right: none;
+   }
+ }
+
+ #textarea {
+    margin-top:0px; 
+    margin-bottom:0px; 
+   height: 63px;
+    font: 9pt Consolas;
+    resize: none;
+}
+.container-fluid {
+    padding:0;
+}
+
+body{
+    background-color: #f8f9fa!important;
+}
+
+.col-md-border:not(:last-child) {
+    border-right: 1px solid #A9A9A9;
+ }
+ 
+ @media (max-width: 768px) {
+   .col-md-border:not(:last-child) {
+     border-right: none;
+   }
+ }
+
+ .form-signin {
+  width: 100%;
+  max-width: 420px;
+  padding: 15px;
+  margin: 0 auto;
+}
+
+.landingpage {
+  width: 100%;
+  max-width: 420px;
+  padding: 15px;
+  margin: 150px auto;
+}
+
+
+@import '~bootstrap/dist/css/bootstrap.min.css';
